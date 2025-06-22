@@ -5,7 +5,7 @@ This repository hosts a ROS 2 workspace used for experimenting with the TurtleBo
 ## Workspace layout
 
 The workspace lives under `tb4_ws/` and imports the upstream TurtleBot 4 packages
-listed in `dependencies.repos` on the `jazzy` branches.
+listed in `dependencies.repos` on the `humble` branches.
 
 ## Container
 

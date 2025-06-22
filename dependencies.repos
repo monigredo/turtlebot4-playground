@@ -2,20 +2,20 @@ repositories:
   turtlebot4_description:
     type: git
     url: https://github.com/turtlebot/turtlebot4_description.git
-    version: jazzy
+    version: humble
   turtlebot4_simulator:
     type: git
     url: https://github.com/turtlebot/turtlebot4_simulator.git
-    version: jazzy
+    version: humble
   turtlebot4_robot:
     type: git
     url: https://github.com/turtlebot/turtlebot4_robot.git
-    version: jazzy
+    version: humble
   turtlebot4_bringup:
     type: git
     url: https://github.com/turtlebot/turtlebot4_bringup.git
-    version: jazzy
+    version: humble
   turtlebot4_examples:
     type: git
     url: https://github.com/turtlebot/turtlebot4_examples.git
-    version: jazzy
+    version: humble
