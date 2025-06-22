@@ -10,7 +10,7 @@ listed in `dependencies.repos` on the `jazzy` branches.
 ## Container
 
 A `docker/Dockerfile` is provided to build the workspace using the
-`gz-harmonic-jazzy:2025-05` base image with ROS 2 build tools installed.
+`gz-harmonic:2025-05` base image with ROS 2 build tools installed.
 
 ## Continuous Integration
 

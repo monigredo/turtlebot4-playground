@@ -8,7 +8,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/gazebo-release/gz-harmonic-jazzy:2025-05
+      # The jazzy-tagged image was removed upstream; use the generic
+      # Harmonic image at the same timestamp instead.
+      image: ghcr.io/gazebo-release/gz-harmonic:2025-05
     steps:
       - uses: actions/checkout@v3
       - name: Install tools
